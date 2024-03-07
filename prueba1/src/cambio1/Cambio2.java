@@ -7,6 +7,7 @@ public class Cambio2 {
 			System.out.println("Clase Cambio2 en proyecto1_1");
 			System.out.println("Clase Cambio2 en proyecto1_2");
 			System.out.println("Clase Cambio2 en proyecto1_2");
+
 		}
 
 }
